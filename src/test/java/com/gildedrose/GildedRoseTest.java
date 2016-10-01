@@ -53,7 +53,7 @@ public class GildedRoseTest {
         app.updateQuality();
         assertEquals("Foo", app.items[0].name);
         assertEquals(46, app.items[0].quality);
-        assertEquals(-1, app.items[0].sellIn);
+        assertEquals(-2, app.items[0].sellIn);
     }
 
     @Test
@@ -142,7 +142,17 @@ public class GildedRoseTest {
 //        assertEquals(80, app.items[2].quality);
     }
 
+    @Test
+    public void testToString(){
+        Item[] items = new Item[]{new Item("Sulfuras, Hand of Ragnaros", 11, 80),
+                new Item("Sulfuras, Hand of Ragnaros", 0, 80),
+                new Item("Sulfuras, Hand of Ragnaros", 10, 80)
 
+        };
+        GildedRose app = new GildedRose(items);
+        app.updateQuality();
+        assertEquals("Sulfuras, Hand of Ragnaros, 11, 80", app.items[0].toString());
+    }
 
 
 }
