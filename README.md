@@ -5,6 +5,9 @@
 Mob team 5 looked at a few options to coordinate the Mob team programming. Basuki proposed Appear.me, and then Daryl proposed Webex.     
 After a trial recording run, we settled on Cisco WebEx as Daryl had an account with them.
 
+## Communication
+We began a Slack channel under our Agile class, at the end of class in Cambridge, and began to communicate on there (instead of the Canvas group)
+
 ##Software
 
 Via Cisco WebEx we shared a webinar with video, and voice to join together. We maintained a timer to share controls. 
