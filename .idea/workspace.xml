@@ -8,8 +8,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/gildedrose/GildedRose.class" afterPath="$PROJECT_DIR$/target/classes/com/gildedrose/GildedRose.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/gildedrose/GildedRoseTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/gildedrose/GildedRoseTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/gildedrose/GildedRose.java" afterPath="$PROJECT_DIR$/src/main/java/com/gildedrose/GildedRose.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseTest.java" />
     </list>
     <list id="9eb97d8d-0191-45da-aab3-2a95b12c45c2" name="Failed commit: Default" comment="inital upload&#10;&#10;fist upload&#10;">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseParamTest.java" />
@@ -68,8 +66,8 @@
       <file leaf-file-name="GildedRose.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/GildedRose.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+            <state relative-caret-position="442">
+              <caret line="32" column="51" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -101,6 +99,11 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="locustking" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="GildedRose" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -860,7 +863,7 @@
       <workItem from="1474224228782" duration="7313000" />
       <workItem from="1474421036970" duration="43000" />
       <workItem from="1474813403651" duration="8852000" />
-      <workItem from="1475343283927" duration="7353000" />
+      <workItem from="1475343283927" duration="7510000" />
     </task>
     <task id="LOCAL-00001" summary="mob part 1">
       <created>1475350395801</created>
@@ -869,7 +872,14 @@
       <option name="project" value="LOCAL" />
       <updated>1475350395801</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="mob part 1">
+      <created>1475351473216</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1475351473216</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -905,7 +915,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23561000" />
+    <option name="totallyTimeSpent" value="23718000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="0" width="1932" height="1056" extended-state="0" />
@@ -919,7 +929,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29895833" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1133,8 +1143,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/GildedRose.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        <state relative-caret-position="442">
+          <caret line="32" column="51" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
           <folding />
         </state>
       </provider>
