@@ -19,3 +19,4 @@ We decided to share the same PC for programming to prevent having to compile and
 
 ##Video
 A video of a portion of our Mob Programming session held on Saturday 10/1 at 2 PM EST is here:
+https://youtu.be/9PvbGuNIkMw
