@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0855307d-f22b-404c-a8f3-62c33ed9ee07" name="Default" comment="mob part 1">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GildedRose/GildedRose.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GildedRose/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GildedRose/src/main/java/Java.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GildedRose/src/main/java/com/gildedrose/GildedRose.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GildedRose/src/main/java/com/gildedrose/Item.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GildedRose/src/main/java/com/gildedrose/TexttestFixture.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GildedRose/src/test/java/com/gildedrose/GildedRoseTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GildedRose/target/classes/com/gildedrose/GildedRose.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GildedRose/target/classes/com/gildedrose/Item.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GildedRose/target/classes/com/gildedrose/TexttestFixture.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GildedRose/target/test-classes/com/gildedrose/GildedRoseTest.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GildedRose/src/test/java/com/gildedrose/GildedRoseParamTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseParamTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/gildedrose/GildedRose.class" afterPath="$PROJECT_DIR$/target/classes/com/gildedrose/GildedRose.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/gildedrose/GildedRoseTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/gildedrose/GildedRoseTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/gildedrose/GildedRose.java" afterPath="$PROJECT_DIR$/src/main/java/com/gildedrose/GildedRose.java" />
     </list>
     <list id="9eb97d8d-0191-45da-aab3-2a95b12c45c2" name="Failed commit: Default" comment="inital upload&#10;&#10;fist upload&#10;">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseParamTest.java" />
@@ -18,7 +30,6 @@
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <file path="$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseParamTest.java" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,14 +62,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GildedRoseTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseTest.java">
+      <file leaf-file-name="GildedRoseParamTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseParamTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="527">
+              <caret line="38" column="61" selection-start-line="38" selection-start-column="60" selection-end-line="38" selection-end-column="61" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -66,18 +75,8 @@
       <file leaf-file-name="GildedRose.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/GildedRose.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="32" column="51" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Item.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/Item.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+            <state relative-caret-position="339">
+              <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -134,8 +133,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-10" />
-    <option name="width" value="1932" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1924" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -163,7 +163,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -276,8 +276,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -291,7 +291,7 @@
       <recent name="com.gildedrose" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.GildedRoseTest (1)">
+  <component name="RunManager" selected="JUnit.GildedRoseParamTest">
     <configuration default="false" name="GildedRoseTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -839,8 +839,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.GildedRoseTest (1)" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.GildedRoseParamTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.GildedRoseParamTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.GildedRoseTest (1)" />
         <item index="2" class="java.lang.String" itemvalue="Application.TestRunner" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.GildedRoseTest.itemFooSellby" />
         <item index="4" class="java.lang.String" itemvalue="JUnit.GildedRoseTest.itemSulfuras" />
@@ -863,7 +863,10 @@
       <workItem from="1474224228782" duration="7313000" />
       <workItem from="1474421036970" duration="43000" />
       <workItem from="1474813403651" duration="8852000" />
-      <workItem from="1475343283927" duration="7510000" />
+      <workItem from="1475343283927" duration="8515000" />
+      <workItem from="1475361713390" duration="1780000" />
+      <workItem from="1475423877010" duration="4000" />
+      <workItem from="1475423961905" duration="216000" />
     </task>
     <task id="LOCAL-00001" summary="mob part 1">
       <created>1475350395801</created>
@@ -879,62 +882,67 @@
       <option name="project" value="LOCAL" />
       <updated>1475351473216</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="mob part 1">
+      <created>1475351581940</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1475351581941</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GildedRoseTest_(1) - 2016.10.01 at 12h 27m 06s.xml">
-      <configuration name="GildedRoseTest (1)" configurationId="JUnit" />
+    <history-entry file="GildedRoseParamTest - 2016.10.01 at 15h 42m 09s.xml">
+      <configuration name="GildedRoseParamTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GildedRoseTest_(1) - 2016.10.01 at 12h 29m 12s.xml">
-      <configuration name="GildedRoseTest (1)" configurationId="JUnit" />
+    <history-entry file="GildedRoseParamTest - 2016.10.01 at 15h 46m 03s.xml">
+      <configuration name="GildedRoseParamTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GildedRoseTest_(1) - 2016.10.01 at 12h 29m 41s.xml">
-      <configuration name="GildedRoseTest (1)" configurationId="JUnit" />
+    <history-entry file="GildedRoseParamTest - 2016.10.01 at 15h 50m 04s.xml">
+      <configuration name="GildedRoseParamTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GildedRoseTest_(1) - 2016.10.01 at 12h 36m 18s.xml">
-      <configuration name="GildedRoseTest (1)" configurationId="JUnit" />
+    <history-entry file="GildedRoseParamTest - 2016.10.01 at 15h 51m 54s.xml">
+      <configuration name="GildedRoseParamTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GildedRoseTest_(1) - 2016.10.01 at 12h 36m 20s.xml">
-      <configuration name="GildedRoseTest (1)" configurationId="JUnit" />
+    <history-entry file="GildedRoseParamTest - 2016.10.01 at 15h 53m 04s.xml">
+      <configuration name="GildedRoseParamTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GildedRoseTest_(1) - 2016.10.01 at 12h 38m 41s.xml">
-      <configuration name="GildedRoseTest (1)" configurationId="JUnit" />
+    <history-entry file="GildedRoseParamTest - 2016.10.01 at 15h 54m 47s.xml">
+      <configuration name="GildedRoseParamTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GildedRoseTest_(1) - 2016.10.01 at 12h 40m 47s.xml">
-      <configuration name="GildedRoseTest (1)" configurationId="JUnit" />
+    <history-entry file="GildedRoseParamTest - 2016.10.01 at 15h 56m 41s.xml">
+      <configuration name="GildedRoseParamTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GildedRoseTest_(1) - 2016.10.01 at 12h 41m 24s.xml">
-      <configuration name="GildedRoseTest (1)" configurationId="JUnit" />
+    <history-entry file="GildedRoseParamTest - 2016.10.01 at 16h 02m 17s.xml">
+      <configuration name="GildedRoseParamTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GildedRoseTest_(1) - 2016.10.01 at 12h 45m 25s.xml">
-      <configuration name="GildedRoseTest (1)" configurationId="JUnit" />
+    <history-entry file="GildedRoseParamTest - 2016.10.01 at 16h 02m 55s.xml">
+      <configuration name="GildedRoseParamTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="GildedRoseTest_(1) - 2016.10.01 at 12h 47m 31s.xml">
       <configuration name="GildedRoseTest (1)" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23718000" />
+    <option name="totallyTimeSpent" value="26723000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-10" y="0" width="1932" height="1056" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29895833" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1388309" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13836478" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -945,7 +953,9 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29895833" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -993,11 +1003,51 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseParamTest.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="38" column="61" selection-start-line="38" selection-start-column="60" selection-end-line="38" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/GildedRose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseParamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="38" column="61" selection-start-line="38" selection-start-column="60" selection-end-line="38" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/GildedRose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseParamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="43" column="79" selection-start-line="43" selection-start-column="79" selection-end-line="43" selection-end-column="79" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1014,7 +1064,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1024,7 +1074,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1058,7 +1108,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1103,22 +1153,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseParamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="63" column="84" selection-start-line="63" selection-start-column="84" selection-end-line="63" selection-end-column="84" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/gildedrose/TestRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1133,18 +1173,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="272">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseParamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="38" column="61" selection-start-line="38" selection-start-column="60" selection-end-line="38" selection-end-column="61" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/GildedRose.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="32" column="51" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
+        <state relative-caret-position="339">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
           <folding />
         </state>
       </provider>
